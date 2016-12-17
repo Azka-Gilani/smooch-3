@@ -221,12 +221,12 @@ def processFuel(req):
 def makeWebhookResult(data):
     i=0
     length=len(data)
-    row_id=['test','test1','test2','test3','test4']
-    row_title=['test','test1','test2','test3','test4']
-    row_location=['test','test1','test2','test3','test4']
-    row_price=['test','test1','test2','test3','test4']
-    row_slug=['test','test1','test2','test3','test4']
-    row_number=['test','test1','test2','test3','test4']
+    row_id=['test','test1','test2','test3','test4','test5','test6']
+    row_title=['test','test1','test2','test3','test4','test5','test6']
+    row_location=['test','test1','test2','test3','test4','test5','test6']
+    row_price=['test','test1','test2','test3','test4','test5','test6']
+    row_slug=['test','test1','test2','test3','test4','test5','test6']
+    row_number=['test','test1','test2','test3','test4','test5','test6']
     while (i <length):
         row_id[i]=data[i]['p_id']
         row_title[i]=data[i]['title']
