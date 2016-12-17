@@ -339,6 +339,10 @@ def makeWebhookResult(data):
                 "url": "www.aarz.pk",
                 "title": "Open Web URL"
             },
+                     {
+                "type":"element_share"
+                    
+                    }, 
                    ]
           }]
             
@@ -409,6 +413,10 @@ def makeWebhookResult(data):
                 "url": "www.aarz.pk",
                 "title": "Open Web URL"
             }, 
+                     {
+                "type":"element_share"
+                    
+                    }, 
                    ],
           }, 
                    {
@@ -421,6 +429,10 @@ def makeWebhookResult(data):
                 "url": "www.aarz.pk",
                 "title": "Open Web URL"
             }, 
+                     {
+                "type":"element_share"
+                    
+                    }, 
                    ],
           }, 
                    {
@@ -433,6 +445,10 @@ def makeWebhookResult(data):
                 "url": "www.aarz.pk",
                 "title": "Open Web URL"
             },
+                     {
+                "type":"element_share"
+                    
+                    }, 
                    ]
           }]
             
